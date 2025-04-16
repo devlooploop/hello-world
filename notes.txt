@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Git GitHub Flow::::
-=======
-Git Push Branch to GitHub ::::
->>>>>>> a72ba0f1e842e768d24960485c3665b27d96a7d9
+Git GitHub Fork ----
