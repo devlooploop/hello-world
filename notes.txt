@@ -1,1 +1,1 @@
-Git GitHub send Pull Request
+Git Ignore and .gitignore
